@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(12-assert LANGUAGES CXX)
+project(13-RAII LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
@@ -11,5 +11,5 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(12-assert
-	main.cpp)
+add_executable(13-RAII
+	main.cpp myClass.cpp)
