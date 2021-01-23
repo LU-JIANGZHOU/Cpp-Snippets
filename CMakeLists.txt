@@ -17,3 +17,5 @@ add_subdirectory(Cpp-Snippets-10-uniqueptr)
 add_subdirectory(Cpp-Snippets-11-vector)
 add_subdirectory(Cpp-Snippets-12-assert)
 add_subdirectory(Cpp-Snippets-13-RAII)
+add_subdirectory(Cpp-Snippets-14-friend)
+
