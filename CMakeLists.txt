@@ -18,4 +18,5 @@ add_subdirectory(Cpp-Snippets-11-vector)
 add_subdirectory(Cpp-Snippets-12-assert)
 add_subdirectory(Cpp-Snippets-13-RAII)
 add_subdirectory(Cpp-Snippets-14-friend)
+add_subdirectory(Cpp-Snippets-15-const)
 
